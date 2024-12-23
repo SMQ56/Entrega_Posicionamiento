@@ -29,6 +29,12 @@ h1 {
   padding-left: 40px;
   padding-bottom: 4px;
 }
+h2{
+    padding-bottom:10px;
+}
+h3{
+    padding-bottom:10px;
+}
 main {
   padding: 20px;
   position: relative;
